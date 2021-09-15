@@ -5,7 +5,7 @@
 💡 This is Innexia An Advanced Telegram CHAT Bot For Best AI Experience !! 🤖 
 
 ![logo](https://telegra.ph/file/664e34bc77911c8fdf05c.jpg)
-#  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/DeCodeSupport)
+#  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/florenza_Support)
 
 
 ## Cᴏᴍᴍᴀɴᴅs
@@ -39,6 +39,6 @@
 
 ## DEPLOY ON HEROKU 🚀
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TeamDeeCode/DeCoDeMusic/tree/Pytgcalls"><img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/T5FR0CK5T4R/DeCoDeMusic"><img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
  
 
