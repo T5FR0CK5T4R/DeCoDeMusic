@@ -43,13 +43,13 @@ async def start_(client: Client, message: Message):
                          "📚 Commands", callback_data="cbcmds"
                     ),
                     InlineKeyboardButton(
-                        "❤️ Owner", url=f"https://t.me/{OWNER_USERNAME}")
+                        "❤️ Owner", url=f"https://t.me/T5f_r0ck5t4r")
                 ],[
                     InlineKeyboardButton(
-                        "👥 Official Group", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "👥 Official Group", url=f"https://t.me/florenza_support"
                     ),
                     InlineKeyboardButton(
-                        "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}")
+                        "📣 Official Channel", url=f"https://t.me/florenza_updates")
                 ],[
                     InlineKeyboardButton(
                         "❗️ Info & About 👨‍💻", callback_data="cbinfo")
